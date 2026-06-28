@@ -1,7 +1,6 @@
 # calculaterTkinter
-A Windows-style calculator built with Python Tkinter.
 
-A Windows 11 style calculator built using Python and Tkinter.
+A Windows style calculator built using Python and Tkinter.
 
 ## Features
 
